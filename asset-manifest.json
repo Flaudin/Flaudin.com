@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Flaudin.com/static/css/main.15b2fc4a.css",
-    "main.js": "/Flaudin.com/static/js/main.762b11cc.js",
+    "main.js": "/Flaudin.com/static/js/main.565fa0cf.js",
     "static/js/787.1f11dfe9.chunk.js": "/Flaudin.com/static/js/787.1f11dfe9.chunk.js",
     "static/media/project-img6.png": "/Flaudin.com/static/media/project-img6.1711ba1d5ee054e76173.png",
     "static/media/project-img4.png": "/Flaudin.com/static/media/project-img4.3969edaffb8e7dea0332.png",
@@ -28,17 +28,19 @@
     "static/media/meter1.svg": "/Flaudin.com/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
     "static/media/meter3.svg": "/Flaudin.com/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
     "static/media/nav-icon3.svg": "/Flaudin.com/static/media/nav-icon3.27310c5b525558aeb00d96837cb8326d.svg",
+    "static/media/nav-icon4.svg": "/Flaudin.com/static/media/nav-icon4.b30592b1113f4ea92426d9721ac4f8ca.svg",
     "static/media/nav-icon2.svg": "/Flaudin.com/static/media/nav-icon2.dec610fb9ba70721bdffc7ef0c900012.svg",
     "index.html": "/Flaudin.com/index.html",
+    "static/media/nav-icon.svg": "/Flaudin.com/static/media/nav-icon.82854381f5abb866f538104f61edc6c7.svg",
     "static/media/nav-icon1.svg": "/Flaudin.com/static/media/nav-icon1.ad8bad9426e59bede397ac9dd5466088.svg",
     "static/media/arrow2.svg": "/Flaudin.com/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/Flaudin.com/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "main.15b2fc4a.css.map": "/Flaudin.com/static/css/main.15b2fc4a.css.map",
-    "main.762b11cc.js.map": "/Flaudin.com/static/js/main.762b11cc.js.map",
+    "main.565fa0cf.js.map": "/Flaudin.com/static/js/main.565fa0cf.js.map",
     "787.1f11dfe9.chunk.js.map": "/Flaudin.com/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15b2fc4a.css",
-    "static/js/main.762b11cc.js"
+    "static/js/main.565fa0cf.js"
   ]
 }
