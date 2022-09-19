@@ -455,6 +455,18 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   font-size: 15px;
   letter-spacing: 0.8px;
 }
+
+.proj-txtx a {
+  color: #fff;
+  text-decoration: none;
+  letter-spacing: .1px;
+}
+
+.proj-txtx a:visited {
+  color: #fff;
+  text-decoration: none;
+}
+
 .background-image-right {
   top: 20%;
   position: absolute;

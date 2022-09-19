@@ -23,6 +23,7 @@ export const Projects = () => {
       title: "Dynamic Pitch Landing Page",
       description: "UI/UX Design",
       imgUrl: projImg5,
+      ProjUrl:"https://www.figma.com/proto/eECAYxVIg49ExKJU95YYHh/Dynamic-Pitch-Landing-Page-Design?page-id=0%3A1&node-id=31%3A403&viewport=569%2C349%2C0.04&scaling=scale-down&starting-point-node-id=17%3A9&show-proto-sidebar=1",
     },
     {
       title: "Flad Mentro E-commerce",
